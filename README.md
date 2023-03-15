@@ -4,12 +4,12 @@ Solutions to https://projecteuler.net/ in K, BQN, Haskell, &amp; Prolog
 |      | K                  | BQN                | Haskell            | Prolog             |
 | ---  | :---:              | :---:              | :---:              | :---:              |
 | #001 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| #002 | :x:                | :x:                | :x:                | :x:                |
-| #003 | :x:                | :x:                | :x:                | :x:                |
-| #004 | :x:                | :x:                | :x:                | :x:                |
-| #005 | :x:                | :x:                | :x:                | :x:                |
-| #006 | :x:                | :x:                | :x:                | :x:                |
-| #007 | :x:                | :x:                | :x:                | :x:                |
+| #002 | :heavy_check_mark: | :x:                | :x:                | :x:                |
+| #003 | :heavy_check_mark: | :x:                | :x:                | :x:                |
+| #004 | :heavy_check_mark: | :x:                | :x:                | :x:                |
+| #005 | :x:                | :heavy_check_mark: | :x:                | :x:                |
+| #006 | :heavy_check_mark: | :x:                | :x:                | :x:                |
+| #007 | :heavy_check_mark: | :x:                | :x:                | :x:                |
 | #008 | :x:                | :x:                | :x:                | :x:                |
 | #009 | :x:                | :x:                | :x:                | :x:                |
 | #010 | :x:                | :x:                | :x:                | :x:                |
