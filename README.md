@@ -10,7 +10,7 @@ Solutions to https://projecteuler.net/ in K, BQN, Haskell, &amp; Prolog
 | #005 | :x:                | :heavy_check_mark: | :x:                | :x:                |
 | #006 | :heavy_check_mark: | :x:                | :x:                | :x:                |
 | #007 | :heavy_check_mark: | :x:                | :x:                | :x:                |
-| #008 | :x:                | :x:                | :x:                | :x:                |
+| #008 | :heavy_check_mark: | :heavy_check_mark: | :x:                | :x:                |
 | #009 | :x:                | :x:                | :heavy_check_mark: | :x:                |
 | #010 | :heavy_check_mark: | :x:                | :x:                | :x:                |
 | #011 | :x:                | :x:                | :x:                | :x:                |
