@@ -11,12 +11,12 @@ Solutions to https://projecteuler.net/ in K, BQN, Haskell, &amp; Prolog
 | #006 | :heavy_check_mark: | :x:                | :x:                | :x:                |
 | #007 | :heavy_check_mark: | :x:                | :x:                | :x:                |
 | #008 | :x:                | :x:                | :x:                | :x:                |
-| #009 | :x:                | :x:                | :x:                | :x:                |
-| #010 | :x:                | :x:                | :x:                | :x:                |
+| #009 | :x:                | :x:                | :heavy_check_mark: | :x:                |
+| #010 | :heavy_check_mark: | :x:                | :x:                | :x:                |
 | #011 | :x:                | :x:                | :x:                | :x:                |
 | #012 | :x:                | :x:                | :x:                | :x:                |
 | #013 | :x:                | :x:                | :x:                | :x:                |
-| #014 | :x:                | :x:                | :x:                | :x:                |
+| #014 | :heavy_check_mark: | :x:                | :x:                | :x:                |
 | #015 | :x:                | :x:                | :x:                | :x:                |
 | #016 | :x:                | :x:                | :x:                | :x:                |
 | #017 | :x:                | :x:                | :x:                | :x:                |
