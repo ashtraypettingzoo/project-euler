@@ -5,11 +5,11 @@ Solutions to https://projecteuler.net/ in K, BQN, Haskell, Prolog, Egison, &amp;
 | ---  | :---:              | :---:              | :---:              | :---:              | :---:              | :---:              |
 | #001 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | #002 | :heavy_check_mark: | :x:                | :heavy_check_mark: | :x:                | :heavy_check_mark: | :x:                |
-| #003 | :heavy_check_mark: | :x:                | :x:                | :x:                | :x:                | :x:                |
-| #004 | :heavy_check_mark: | :x:                | :x:                | :x:                | :x:                | :x:                |
-| #005 | :x:                | :heavy_check_mark: | :x:                | :x:                | :x:                | :x:                |
-| #006 | :heavy_check_mark: | :x:                | :x:                | :x:                | :x:                | :x:                |
-| #007 | :heavy_check_mark: | :x:                | :x:                | :x:                | :x:                | :x:                |
+| #003 | :heavy_check_mark: | :x:                | :heavy_check_mark: | :x:                | :x:                | :x:                |
+| #004 | :heavy_check_mark: | :x:                | :heavy_check_mark: | :x:                | :x:                | :x:                |
+| #005 | :x:                | :heavy_check_mark: | :heavy_check_mark: | :x:                | :x:                | :x:                |
+| #006 | :heavy_check_mark: | :x:                | :heavy_check_mark: | :x:                | :x:                | :x:                |
+| #007 | :heavy_check_mark: | :x:                | :heavy_check_mark: | :x:                | :x:                | :x:                |
 | #008 | :heavy_check_mark: | :heavy_check_mark: | :x:                | :x:                | :x:                | :x:                |
 | #009 | :x:                | :x:                | :heavy_check_mark: | :x:                | :x:                | :x:                |
 | #010 | :heavy_check_mark: | :x:                | :x:                | :x:                | :x:                | :x:                |
