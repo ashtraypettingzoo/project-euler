@@ -1,8 +1,10 @@
 -- Egison: https://www.egison.org/
 -- online: https://www.egison.org/console.html
 
-def fibs := 1 :: 1 :: map (\(x, y) -> x + y) (zip fibs (tail fibs))
-
 def p001 := sum $ takeWhile (< 1000) $ filter (\x -> x % 3 = 0 || x % 5 = 0) nats
 
 def p002 := sum $ takeWhile (< 4000000) $ filter isEven $ fibs
+
+def p003 := maximum $ pF 600851475143
+
+def p007 := nth 10001 primes
